@@ -29,19 +29,19 @@ To run the application locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd task-management-app
+   cd Task-Management-application-using-Next.js
    ```
 
 3. Install the dependencies:
 
    ```bash
-   yarn
+   npm i
    ```
 
 4. Run the development server:
 
    ```bash
-   yarn run dev
+   npm run dev
    ```
 
 5. Open your browser and visit `http://localhost:3000` to see the application.
